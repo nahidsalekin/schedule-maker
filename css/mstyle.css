@@ -1,0 +1,153 @@
+@media only screen and (min-width:670px) and (max-width: 920px) {
+    .box .c {
+        font-size: 18px;
+    }
+    .box .input {
+        max-width: 70px;
+    }
+    .box #s1,
+    #s2,
+    #s3,
+    #s4 {
+        max-width: 80px;
+    }
+    .box .inp-total {
+        padding: 0 10px;
+    }
+    .box .sub-res {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .sel-btn {
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (min-width:390px) and (max-width: 669px) {
+    .box {
+        width: 90%;
+    }
+    .inp-total {
+        padding: 0 20px;
+    }
+    .box .c {
+        font-size: 18px;
+    }
+    .box .input {
+        max-width: 70px;
+        font-size: 18px;
+    }
+    .box #s1,
+    #s2,
+    #s3,
+    #s4 {
+        max-width: 90px;
+        font-size: 20px;
+        font-size: 18px;
+    }
+    .inp-total .lbl {
+        font-size: 20px;
+    }
+    .box .sub,
+    .box .reset {
+        font-size: 18px;
+        width: 60%;
+    }
+    .box .reset {
+        margin-right: 5px;
+    }
+    .box .sub-res {
+        width: 60%;
+    }
+    .fa-refresh,
+    .material-icons {
+        font-size: 18px;
+    }
+    .routine {
+        width: 80%;
+    }
+    .routine h2 {
+        font-size: 22px;
+    }
+    .no-print {
+        padding: 5px 15px;
+        width: 20px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 389px) {
+    .box {
+        width: 95%;
+    }
+    .box .c {
+        font-size: 15px;
+        font-weight: 100;
+    }
+    .inp-total {
+        padding: 0 5px;
+    }
+    .box .input {
+        max-width: 50px;
+        max-height: 25px;
+        font-size: 14px;
+    }
+    .box #s1,
+    #s2,
+    #s3,
+    #s4 {
+        max-width: 60px;
+        font-size: 15px;
+        max-height: 25px;
+        font-size: 14px;
+    }
+    .inp-box {
+        margin-bottom: 10px;
+    }
+    .sel-btn {
+        margin-bottom: 18px;
+    }
+    .btn-sec {
+        font-size: 18px;
+    }
+    .inp-total .lbl {
+        font-size: 15px;
+    }
+    legend {
+        font-size: 18px;
+    }
+    .box .sub,
+    .box .reset {
+        font-size: 15px;
+        width: 60%;
+    }
+    .box .reset {
+        margin-right: 5px;
+    }
+    .fa-refresh,
+    .material-icons {
+        font-size: 15px;
+    }
+    .box .sub i {
+        margin-left: 2px;
+    }
+    .box .sub-res {
+        width: 70%;
+        align-content: space-between;
+        margin: 0 auto;
+    }
+    .box .c {
+        margin-right: 5px;
+    }
+    .routine {
+        width: 90%;
+        font-size: 15px;
+    }
+    .no-print {
+        padding: 5px 15px;
+        width: 20px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
